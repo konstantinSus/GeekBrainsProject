@@ -72,6 +72,7 @@ print("Через", year, "лет будет", summ , "рублей")
 }
 
 
+
 func startVklad(){
     vklad()
 }
